@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Individ3\Individ3\bin\Debug\Individ3.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Individ3\Individ3\bin\Debug\Individ3.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Individ3\Individ3\obj\x86\Debug\Individ3.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Individ3\Individ3\obj\x86\Debug\Individ3.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Individ1\Individ1\bin\Debug\Individ1.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Individ1\Individ1\bin\Debug\Individ1.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Individ1\Individ1\obj\x86\Debug\Individ1.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Individ1\Individ1\obj\x86\Debug\Individ1.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Individ1\Individ1\obj\x86\Debug\Individ1.csprojResolveAssemblyReference.cache

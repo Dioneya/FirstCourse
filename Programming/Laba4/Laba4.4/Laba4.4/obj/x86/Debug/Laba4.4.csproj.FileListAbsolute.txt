@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Laba4.4\Laba4.4\bin\Debug\Laba4.4.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Laba4.4\Laba4.4\bin\Debug\Laba4.4.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Laba4.4\Laba4.4\obj\x86\Debug\Laba4.4.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 4\Laba4.4\Laba4.4\obj\x86\Debug\Laba4.4.pdb
