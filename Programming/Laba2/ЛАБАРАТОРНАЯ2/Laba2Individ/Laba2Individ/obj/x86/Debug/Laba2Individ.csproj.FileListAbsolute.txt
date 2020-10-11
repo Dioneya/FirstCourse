@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Projects\Laba2Individ\Laba2Individ\bin\Debug\Laba2Individ.exe
+C:\Users\user\Documents\Projects\Laba2Individ\Laba2Individ\bin\Debug\Laba2Individ.pdb
+C:\Users\user\Documents\Projects\Laba2Individ\Laba2Individ\obj\x86\Debug\Laba2Individ.exe
+C:\Users\user\Documents\Projects\Laba2Individ\Laba2Individ\obj\x86\Debug\Laba2Individ.pdb

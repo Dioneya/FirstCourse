@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{4B4F0CC8-28CD-458D-B9E4-D851DB8A3BFB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laba3.6\Program.cs">
+    <Files>
+      <File FileName="Laba3.6\Program.cs" Line="33" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Laba3.6 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

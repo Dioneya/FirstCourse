@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.5\Laba3.5\bin\Debug\Laba3.5.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.5\Laba3.5\bin\Debug\Laba3.5.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.5\Laba3.5\obj\x86\Debug\Laba3.5.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.5\Laba3.5\obj\x86\Debug\Laba3.5.pdb
+C:\Users\user\Documents\Projects\Laba3.5\Laba3.5\bin\Debug\Laba3.5.exe
+C:\Users\user\Documents\Projects\Laba3.5\Laba3.5\bin\Debug\Laba3.5.pdb
+C:\Users\user\Documents\Projects\Laba3.5\Laba3.5\obj\x86\Debug\Laba3.5.exe
+C:\Users\user\Documents\Projects\Laba3.5\Laba3.5\obj\x86\Debug\Laba3.5.pdb

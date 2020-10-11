@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.3\Laba3.3\bin\Debug\Laba3.3.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.3\Laba3.3\bin\Debug\Laba3.3.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.3\Laba3.3\obj\x86\Debug\Laba3.3.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.3\Laba3.3\obj\x86\Debug\Laba3.3.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.3\Laba3.3\obj\x86\Debug\Laba3.3.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Projects\Laba3.3\Laba3.3\bin\Debug\Laba3.3.exe
+C:\Users\user\Documents\Projects\Laba3.3\Laba3.3\bin\Debug\Laba3.3.pdb
+C:\Users\user\Documents\Projects\Laba3.3\Laba3.3\obj\x86\Debug\Laba3.3.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Projects\Laba3.3\Laba3.3\obj\x86\Debug\Laba3.3.exe
+C:\Users\user\Documents\Projects\Laba3.3\Laba3.3\obj\x86\Debug\Laba3.3.pdb

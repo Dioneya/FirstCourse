@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Projects\Individ1\Individ1\bin\Debug\Individ1.exe
+C:\Users\user\Documents\Projects\Individ1\Individ1\bin\Debug\Individ1.pdb
+C:\Users\user\Documents\Projects\Individ1\Individ1\obj\x86\Debug\Individ1.exe
+C:\Users\user\Documents\Projects\Individ1\Individ1\obj\x86\Debug\Individ1.pdb

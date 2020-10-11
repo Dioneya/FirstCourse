@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.8\Laba3.8\bin\Debug\Laba3.8.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.8\Laba3.8\bin\Debug\Laba3.8.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.8\Laba3.8\obj\x86\Debug\Laba3.8.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.8\Laba3.8\obj\x86\Debug\Laba3.8.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 3\Laba3.8\Laba3.8\obj\x86\Debug\Laba3.8.csprojResolveAssemblyReference.cache

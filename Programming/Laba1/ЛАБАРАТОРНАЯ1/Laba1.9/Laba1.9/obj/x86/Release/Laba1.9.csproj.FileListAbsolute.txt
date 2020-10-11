@@ -1,0 +1,2 @@
+C:\Users\user\Documents\Projects\Laba1.9\Laba1.9\bin\Release\Laba1.9.exe
+C:\Users\user\Documents\Projects\Laba1.9\Laba1.9\obj\x86\Release\Laba1.9.exe
