@@ -1,0 +1,12 @@
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.2\Laba10.2\bin\Debug\Laba10.2.exe
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.2\Laba10.2\bin\Debug\Laba10.2.pdb
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.2\Laba10.2\bin\Debug\mscorlib.dll
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.2\Laba10.2\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.2\Laba10.2\bin\Debug\normidna.nlp
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.2\Laba10.2\bin\Debug\normnfc.nlp
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.2\Laba10.2\bin\Debug\normnfd.nlp
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.2\Laba10.2\bin\Debug\normnfkc.nlp
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.2\Laba10.2\bin\Debug\normnfkd.nlp
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.2\Laba10.2\obj\x86\Debug\Laba10.2.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.2\Laba10.2\obj\x86\Debug\Laba10.2.exe
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.2\Laba10.2\obj\x86\Debug\Laba10.2.pdb

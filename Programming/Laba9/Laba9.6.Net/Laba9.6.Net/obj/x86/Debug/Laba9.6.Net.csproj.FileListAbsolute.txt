@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 9\Laba9.6.Net\Laba9.6.Net\bin\Debug\Laba9.6.Net.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 9\Laba9.6.Net\Laba9.6.Net\bin\Debug\Laba9.6.Net.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 9\Laba9.6.Net\Laba9.6.Net\obj\x86\Debug\Laba9.6.Net.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 9\Laba9.6.Net\Laba9.6.Net\obj\x86\Debug\Laba9.6.Net.pdb

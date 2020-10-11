@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AFB54C8F-7F55-4ABA-AF0C-38B0F990AE57}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laba9.5\Properties\BinaryTreeNode.cs">
+    <Files>
+      <File FileName="Laba9.5\Program.cs" Line="58" Column="91" />
+      <File FileName="Laba9.5\Properties\BinaryTreeNode.cs" Line="64" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Laba9.5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

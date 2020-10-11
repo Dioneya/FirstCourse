@@ -1,0 +1,17 @@
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\bin\Debug\Laba10.1.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\bin\Debug\Laba10.1.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\obj\x86\Debug\Laba10.1.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\obj\x86\Debug\Laba10.1.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\obj\x86\Debug\Laba10.1.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\bin\Debug\Laba10.1.exe
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\bin\Debug\Laba10.1.pdb
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\obj\x86\Debug\Laba10.1.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\obj\x86\Debug\Laba10.1.exe
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\obj\x86\Debug\Laba10.1.pdb
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\bin\Debug\mscorlib.dll
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\bin\Debug\normidna.nlp
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\bin\Debug\normnfc.nlp
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\bin\Debug\normnfd.nlp
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\bin\Debug\normnfkc.nlp
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 10\Laba10.1\Laba10.1\bin\Debug\normnfkd.nlp

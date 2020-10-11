@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{76BFA1B4-E6A0-4B82-9C2A-121BC5675322}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Laba10.4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laba10.4\Graph.cs">
+    <Files>
+      <File FileName="Laba10.4\Program.cs" Line="45" Column="4" />
+      <File FileName="Laba10.4\Graph.cs" Line="64" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

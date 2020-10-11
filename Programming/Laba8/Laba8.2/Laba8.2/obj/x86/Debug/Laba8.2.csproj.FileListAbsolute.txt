@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Projects\Laba8.2\Laba8.2\bin\Debug\Laba8.2.exe
+C:\Users\user\Documents\Projects\Laba8.2\Laba8.2\bin\Debug\Laba8.2.pdb
+C:\Users\user\Documents\Projects\Laba8.2\Laba8.2\obj\x86\Debug\Laba8.2.exe
+C:\Users\user\Documents\Projects\Laba8.2\Laba8.2\obj\x86\Debug\Laba8.2.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 8\Laba8.2\Laba8.2\bin\Debug\Laba8.2.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 8\Laba8.2\Laba8.2\bin\Debug\Laba8.2.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 8\Laba8.2\Laba8.2\obj\x86\Debug\Laba8.2.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 8\Laba8.2\Laba8.2\obj\x86\Debug\Laba8.2.pdb

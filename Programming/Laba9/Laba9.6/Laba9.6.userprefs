@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1AC4BD66-176D-4B18-8FDD-6E26BCB9B7A4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laba9.6\Program.cs">
+    <Files>
+      <File FileName="Laba9.6\Program.cs" Line="26" Column="35" />
+      <File FileName="Laba9.6\Properties\Stack.cs" Line="21" Column="34" />
+      <File FileName="Laba9.6\Properties\DoublyLinkedList.cs" Line="4" Column="1" />
+      <File FileName="Laba9.6\Properties\DoublyNode.cs" Line="4" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Laba9.6 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

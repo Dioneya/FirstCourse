@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 8\Laba8.1\Laba8.1\bin\Debug\Laba8.1.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 8\Laba8.1\Laba8.1\bin\Debug\Laba8.1.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 8\Laba8.1\Laba8.1\obj\x86\Debug\Laba8.1.exe
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 8\Laba8.1\Laba8.1\obj\x86\Debug\Laba8.1.pdb
+C:\Users\user\Documents\Projects\ЛАБАРАТОРНАЯ 8\Laba8.1\Laba8.1\obj\x86\Debug\Laba8.1.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 8\Laba8.1\Laba8.1\bin\Debug\Laba8.1.exe
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 8\Laba8.1\Laba8.1\bin\Debug\Laba8.1.pdb
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 8\Laba8.1\Laba8.1\obj\x86\Debug\Laba8.1.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 8\Laba8.1\Laba8.1\obj\x86\Debug\Laba8.1.exe
+C:\Users\Никита\Documents\Project\ЛАБАРАТОРНАЯ 8\Laba8.1\Laba8.1\obj\x86\Debug\Laba8.1.pdb

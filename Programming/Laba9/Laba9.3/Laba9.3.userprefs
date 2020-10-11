@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D5980CAA-ACA0-42AB-9664-F9501095C8D1}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laba9.3\Properties\CircularLinkedList.cs">
+    <Files>
+      <File FileName="Laba9.3\Program.cs" Line="6" Column="3" />
+      <File FileName="Laba9.3\Properties\Node.cs" Line="14" Column="1" />
+      <File FileName="Laba9.3\Properties\CircularLinkedList.cs" Line="121" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Laba9.3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
